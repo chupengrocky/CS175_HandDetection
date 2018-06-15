@@ -3,7 +3,7 @@
 Under the src/ is the two main implementation of this project:
     yad2k/ is the darknet implemention of hand detection
 
-        for more detail see -[Yad2k](https://github.com/allanzelener/YAD2K)
+for more detail see -[Yad2k](https://github.com/allanzelener/YAD2K)
     Transfer-Learning-in-keras/ is the implementation of classification on hand gesture
         Start by runing the script transfer_learning_vgg16_custom_data.py
         data are stored in the directory data/
