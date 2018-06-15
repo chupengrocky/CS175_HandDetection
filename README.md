@@ -5,6 +5,7 @@ Under the src/ is the two main implementation of this project
 ### Installation
 ```bash
 git clone https://github.com/chupengrocky/CS175_HandDetection.git
+```
 ## Requirements
 
 - [Keras](https://github.com/fchollet/keras)
