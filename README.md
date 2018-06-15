@@ -1,6 +1,6 @@
 # CS175_HandDetection and Gesture Classification
 ## File Description
-Under the src/ is the two main implementation of this project:
+Under the src/ is the two main implementation of this project:\\
     yad2k/ is the darknet implemention of hand detection
 
 for more detail see -[Yad2k](https://github.com/allanzelener/YAD2K)
