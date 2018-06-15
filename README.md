@@ -8,7 +8,6 @@ git clone https://github.com/chupengrocky/CS175_HandDetection.git
 ```
 ## Requirements
 
-- [Keras](https://github.com/fchollet/keras)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Numpy](http://www.numpy.org/)
 - [h5py](http://www.h5py.org/) (For Keras model serialization.)
